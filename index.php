@@ -41,6 +41,7 @@
           <img src="../dist/img/brand.svg" alt="PatternFly Enterprise Application" />
         </a>
       </div>
+      <h2>test</h2>
       <div class="collapse navbar-collapse navbar-collapse-1">
         <ul class="nav navbar-nav navbar-utility">
           <li>

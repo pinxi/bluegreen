@@ -20,5 +20,4 @@ imagefilledrectangle($im, 0, 0, 199, 199, $color);
 header('Content-Type: image/png');
 imagePNG($im);
 imagedestroy($im);
-echo("hi");
 ?>
